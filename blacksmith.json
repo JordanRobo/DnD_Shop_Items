@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Short Sword",
+        "description": "A short sword is a small, light, and versatile weapon. It is a favorite of rogues and bards.",
+        "damage": "1d6 piercing",
+        "range": "Melee",
+        "price": "10gp",
+        "rarity": 1
+    },
+    {
+        "id": 2,
+        "name": "Long Sword",
+        "description": "A long sword is a versatile weapon. It is a favorite of fighters and paladins.",
+        "damage": "1d8 slashing",
+        "range": "Melee",
+        "price": "15gp",
+        "rarity": 1
+    },
+    {
+        "id": 3,
+        "name": "Great Sword",
+        "description": "A great sword is a heavy weapon. It is a favorite of barbarians and fighters.",
+        "damage": "2d6 slashing",
+        "range": "Melee",
+        "price": "25gp",
+        "rarity": 2
+    },
+    {
+        "id": 4,
+        "name": "Dagger",
+        "description": "A dagger is a small, light, and versatile weapon. It is a favorite of rogues and bards.",
+        "damage": "1d4 piercing",
+        "range": "Melee",
+        "price": "5gp",
+        "rarity": 1
+    },
+    {
+        "id": 5,
+        "name": "Short Bow",
+        "description": "A short bow is a small, light, and versatile weapon. It is a favorite of rangers and rogues.",
+        "damage": "1d6 piercing",
+        "range": "Ranged (80/320)",
+        "price": "25gp",
+        "rarity": 1
+    },
+    {
+        "id": 6,
+        "name": "Long Bow",
+        "description": "A long bow is a versatile weapon. It is a favorite of rangers and fighters.",
+        "damage": "1d8 piercing",
+        "range": "Ranged (150/600)",
+        "price": "50gp",
+        "rarity": 2
+    }
+]
