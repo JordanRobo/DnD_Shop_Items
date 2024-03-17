@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "name": "All or Nothing Coin",
+        "description": "On a roll you would normally use a d20, flip a coin instead. Heads is a critical success (Natural 20), tails is a critical fail (Natural 1). Can be used once per short rest.",
+        "price": "50 gp",
+        "rarity": 1
+    },
+    {
+        "id": 2,
+        "name": "Mighty Acorn",
+        "description": "When thrown on a patch of earth, at least 5 feet wide, it immediately grows into a 20' oak.",
+        "price": "30 gp",
+        "rarity": 1
+    },
+    {
+        
+    }
+]

@@ -1,13 +1,33 @@
-import potions from "./alchemist.json";
-import weapons from "./blacksmith.json";
+import { alchemist_items, blacksmith_items, artificer_items, general_times, illicit_items, jeweler_items, tavern_items } from './items/data';
+
+let town1 = {
+    shopType: "alchemist",
+    townSize: "small"
+};
+
+let town2 = {
+    shopType: "blacksmith",
+    townSize: "medium"
+};
 
 function getStock(shopType: string, townSize: string) {
-    let data;
+    let data: any[] = [];
     if (shopType == "alchemist") {
-        data = potions;
+        data = alchemist_items;
     } else if (shopType == "blacksmith") {
-        data = weapons;
-    } else {
+        data = blacksmith_items;
+    } else if (shopType == "artificer") {
+        data = artificer_items;
+    } else if (shopType == "general") {
+        data = general_times;
+    } else if (shopType == "illicit") {
+        data = illicit_items;
+    } else if (shopType == "jeweler") {
+        data = jeweler_items;
+    } else if (shopType == "tavern") {
+        data = tavern_items;
+    }
+    else {
         throw new Error("Invalid shop type");
     }
 
@@ -22,4 +42,4 @@ function getStock(shopType: string, townSize: string) {
     return [item1, item2];
 };
 
-console.log(getStock("blacksmith", "medium"));
+console.log(getStock(town1.shopType, town1.townSize));

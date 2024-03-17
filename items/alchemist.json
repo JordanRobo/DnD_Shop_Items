@@ -1,0 +1,177 @@
+[
+    { 
+        "id": 1,
+        "name": "Potion of Healing",
+        "description": "A potion that heals the drinker for 2d4+2 hit points.",
+        "price": "50 gp",
+        "rarity": 1
+    },
+    {
+        "id": 2,
+        "name": "Potion of Climbing",
+        "description": "When you drink this potion, you gain a climbing speed equal to your walking speed for 1 hour. During this time, you have advantage on Strength (Athletics) checks you make to climb.",
+        "price": "20 gp",
+        "rarity": 1
+    },
+    {
+        "id": 3,
+        "name": "Acid (vial)",
+        "description": "As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.",
+        "price": "25 gp",
+        "rarity": 1
+    },
+    {
+        "id": 4,
+        "name": "Potion of Water Breathing",
+        "description": "You can breathe underwater for 1 hour after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.",
+        "price": "180 gp",
+        "rarity": 1
+    },
+    {
+        "id": 5,
+        "name": "Antitoxin (vial)",
+        "description": "A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.",
+        "price": "50 gp",
+        "rarity": 1
+    },
+    {
+        "id": 6,
+        "name": " Bottle, glass",
+        "description": "A bottle of glass can hold 1 pint of liquid.",
+        "price": "2 gp",
+        "rarity": 1
+    },
+    {
+        "id": 7,
+        "name": "Component pouch",
+        "description": "A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell's description).",
+        "price": "25 gp",
+        "rarity": 1
+    },
+    {
+        "id": 8,
+        "name": "Alchemist's Fire (flask)",
+        "description": "This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.",
+        "price": "50 gp",
+        "rarity": 2
+    },
+    {
+        "id": 9,
+        "name": "Potion of Greater Healing",
+        "description": "A potion that heals the drinker for 4d4+4 hit points.",
+        "price": "150 gp",
+        "rarity": 2
+    },
+    {
+        "id": 10,
+        "name": "Potion of Superior Healing",
+        "description": "A potion that heals the drinker for 8d4+8 hit points.",
+        "price": "500 gp",
+        "rarity": 3
+    },
+    {
+        "id": 11,
+        "name": "Healer's Kit",
+        "description": "This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.",
+        "price": "5 gp",
+        "rarity": 1
+    },
+    {
+        "id": 12,
+        "name": "Oil (flask)",
+        "description": "Oil usually comes in a clay flask that holds 1 pint. As an action, you can splash the oil in this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object, treating the oil as an improvised weapon. On a hit, the target is covered in oil. If the target takes any fire damage before the oil dries (after 1 minute), the target takes an additional 5 fire damage from the burning oil. You can also pour a flask of oil on the ground to cover a 5-foot-square area, provided that the surface is level. If lit, the oil burns for 2 rounds and deals 5 fire damage to any creature that enters the area or ends its turn in the area. A creature can take this damage only once per turn.",
+        "price": "1 sp",
+        "rarity": 1
+    },
+    {
+        "id": 13,
+        "name": "Poison, Basic (vial)",
+        "description": "You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.",
+        "price": "100 gp",
+        "rarity": 1
+    },
+    {
+        "id": 14,
+        "name": "Alchemist's Supplies",
+        "description": "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of alchemist's supplies, each of which includes the items you need to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.",
+        "price": "50 gp",
+        "rarity": 3
+    },
+    {
+        "id": 15,
+        "name": "Herbalism Kit",
+        "description": "This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and potions. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify or apply herbs. Also, proficiency with this kit is required to create antitoxin and potions of healing.",
+        "price": "5 gp",
+        "rarity": 2
+    },
+    {
+        "id": 16,
+        "name": "Poisoner's Kit",
+        "description": "A poisoner's kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.",
+        "price": "50 gp",
+        "rarity": 2
+    },
+    {
+        "id": 17,
+        "name": "Potion of Invisibility",
+        "description": "A potion that makes the drinker invisible for 1 hour.",
+        "price": "350 gp",
+        "rarity": 3
+    },
+    {
+        "id": 18,
+        "name": "Potion of Speed",
+        "description": "When you drink this potion, you gain the effect of the haste spell for 1 minute.",
+        "price": "400 gp",
+        "rarity": 3
+    },
+    {
+        "id": 19,
+        "name": "Potion of Flying",
+        "description": "When you drink this potion, you gain a flying speed equal to your walking speed for 1 hour and can hover. If you are flying when the potion's duration expires, you descend at a rate of 60 feet per round until you land. ",
+        "price": "500 gp",
+        "rarity": 3
+    },
+    {
+        "id": 20,
+        "name": "Potion of Gaseous Form",
+        "description": "When you drink this potion, you gain the effect of the gaseous form spell for 1 hour (no concentration required) or until you end the effect as a bonus action. This potion's container seems to hold fog that moves and pours like water.",
+        "price": "250 gp",
+        "rarity": 3
+    },
+    {
+        "id": 21,
+        "name": "Potion of Animal Friendship",
+        "description": "When you drink this potion, you can cast the animal friendship spell (save DC 13) for 1 hour at will. Agitating this muddy liquid brings little bits into view: a fish scale, a hummingbird tongue, a cat claw, or a squirrel hair.",
+        "price": "100 gp",
+        "rarity": 1
+    },
+    {
+        "id": 22,
+        "name": "Potion of Growth",
+        "description": "When you drink this potion, you gain the 'enlarge' effect of the enlarge/reduce spell for 1d4 hours (no concentration required). The red in the potion's liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts. Shaking the bottle fails to interrupt this process.",
+        "price": "300 gp",
+        "rarity": 3
+    },
+    {
+        "id": 23,
+        "name": "Potion of Diminution",
+        "description": "When you drink this potion, you gain the 'reduce' effect of the enlarge/reduce spell for 1d4 hours (no concentration required). The blue in the potion's liquid continuously contracts to a tiny bead and then expands to color the clear liquid around it. Shaking the bottle fails to interrupt this process.",
+        "price": "300 gp",
+        "rarity": 3
+    },
+    {
+        "id": 24,
+        "name": "Potion of Resistance",
+        "description": "When you drink this potion, you gain resistance to one type of damage for 1 hour. The GM chooses the type or determines it randomly from the options below.",
+        "price": "100 gp",
+        "rarity": 1
+    },
+    {
+        "id": 25,
+        "name": "Potion of Poison",
+        "description": "This concoction looks, smells, and tastes like a potion of healing or other beneficial potion. However, it is actually poison masked by illusion magic. An identify spell reveals its true nature. If you drink it, you take 3d6 poison damage, and you must succeed on a DC 13 Constitution saving throw or be poisoned. At the start of each of your turns while you are poisoned in this way, you take 3d6 poison damage. At the end of each of your turns, you can repeat the saving throw. On a success, the poison damage you take on your subsequent turns decreases by 1d6. After three successful saving throws, the poison ends.",
+        "price": "100 gp",
+        "rarity": 1
+    }
+]

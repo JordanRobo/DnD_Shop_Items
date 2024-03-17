@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1,
+        "name": "Acid (vial)",
+        "description": "A vial of acid can be thrown at a target. On a hit, the target takes 2d6 acid damage. A creature can use an action to splash the contents of this vial onto a creature within 5 feet of it or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.",
+        "price": "25 gp",
+        "rarity": 1
+    },
+    {
+        "id": 2,
+        "name": "Aniseed (vial)",
+        "description": "Aniseed is a simple plant-derived natural flavoring that smells and tastes like pungent licorice. It is often used in liqueurs and cooking. A small quantity of aniseed extract can be used to ruin any effort to have dogs track a scent. Dropping a vial of aniseed will ensure that a dog's sense of smell is utterly ruined for 1d4+1 hours if they reach the spot where the substance was dropped. A dog can make a Constitution save to avoid the aniseed to some extent, but on a success the sense of smell is still lost for 1d4+1 turns. The effect of aniseed on any other kind of trained tracking animal is up to the DM, but aniseed should have a detrimental effect on almost anything's sense of smell.",
+        "price": "2 sp",
+        "rarity": 1
+    },
+    {
+        "id": 3,
+        "name": "Antitoxin (vial)",
+        "description": "A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.",
+        "price": "50 gp",
+        "rarity": 1
+    },
+    {
+        "id": 4,
+        "name": "Blinding Powder (vial)",
+        "description": "A highly abrasive, powdered substance that is extremely irritating to the eyes. Blinding powder can be made from many ingredients such as powdered glass, dust soaked in onion juice, or strong ammonium salts. Blinding powder is thrown into the eyes of the victim. To do so, the player must make a 'called shot' attack roll (d20 + Dexterity modifier, at Disadvantage [Called Shot, Eyes]). If the blinding powder strikes a victim, the victim has disadvantage on attack rolls for 1d4+2 rounds, or until they spend an action rubbing the substance out of their eyes. They also have disadvantage on Perception checks that require sight until the effect ends. Although the powder can contain some unpleasant ingredients, it does no permanently damaging effect on the eyes.",
+        "price": "1 sp",
+        "rarity": 1        
+    },
+    {
+        "id": 5,
+        "name": "Glass Cutter",
+        "description": "A small diamond set into a suitable handle, or even set into a ring (+5 gp). The diamond must be cut to a fine point, and if used in a ring, a hinged top should be used to protect the gem. A glass-cutter will cut to glass fairly quickly.",
+        "price": "120 gp",
+        "rarity": 2
+    },
+    {
+        "id": 6,
+        "name": "Pin Ring",
+        "description": "A simple ring with a flip-up lid, below which is a needle capable of delivering a dose of poison (or drug) to the target. Stealthily sticking an unaware target would require a sleight of hand check vs the victim's passive Perception. If stuck, the victim would know they've been scatched/poked, but may not know where it came from (especially in a crowded area). It is up to the DM how to handle the situation. If a victim is aware of the assassin, then an attack roll would be needed.",
+        "price": "10 gp",
+        "rarity": 2
+    },
+    {
+        "id": 7,
+        "name": "Assasins's Blood (vial)",
+        "description": "A creature subjected to this poison must succeed on a DC 10 Constitution saving throw or become poisoned for 24 hours. The poisoned creature is unconscious. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.",
+        "price": "150 gp",
+        "rarity": 2
+    },
+    {
+        "id": 8,
+        "name": "Burnt Othur Fumes (vial)",
+        "description": "A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or become poisoned for 1 minute. The poisoned creature is incapacitated. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
+        "price": "500 gp",
+        "rarity": 3
+    },
+    {
+        "id": 9,
+        "name": "Crawler Mucus (vial)",
+        "description": "A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or become poisoned for 1 minute. The poisoned creature is paralyzed. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
+        "price": "200 gp",
+        "rarity": 2
+    },
+    {
+        "id": 10,
+        "name": "Drow Poison (vial)",
+        "description": "This poison is typically made only by the drow, and only in a place far removed from sunlight. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the creature is also unconscious while poisoned in this way. The creature wakes up if it takes damage.",
+        "price": "200 gp",
+        "rarity": 2
+    },
+    {
+        "id": 11,
+        "name": "Essence of Ether (vial)",
+        "description": "A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 8 hours. The poisoned creature is unconscious. The creature wakes up if it takes damage.",
+        "price": "300 gp",
+        "rarity": 2
+    },
+    {
+        "id": 12,
+        "name": "Malice (vial)",
+        "description": "A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 1 hour. The poisoned creature is blinded.",
+        "price": "250 gp",
+        "rarity": 2
+    },
+    {
+        "id": 13,
+        "name": "Midnight Tears (vial)",
+        "description": "A creature subjected to this poison must succeed on a DC 17 Constitution saving throw or take 3d6 poison damage and become poisoned for 24 hours. The poisoned creature is blinded. If the saving throw fails by 5 or more, the creature is also paralyzed while poisoned in this way.",
+        "price": "1,500 gp",
+        "rarity": 3
+    },
+    {
+        "id": 14,
+        "name": "Oil of Taggit (vial)",
+        "description": "A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or become poisoned for 24 hours. The poisoned creature is unconscious. The creature wakes up if it takes damage.",
+        "price": "400 gp",
+        "rarity": 2
+    },
+    {
+        "id": 15,
+        "name": "Pale Tincture (vial)",
+        "description": "A creature subjected to this poison must succeed on a DC 16 Constitution saving throw or become poisoned for 1 hour. The poisoned creature is paralyzed.",
+        "price": "250 gp",
+        "rarity": 2
+    },
+    {
+        "id": 16,
+        "name": "Serpent Venom (vial)",
+        "description": "A creature subjected to this poison must succeed on a DC 11 Constitution saving throw or take 3d6 poison damage and become poisoned for 1 minute. The poisoned creature is paralyzed. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
+        "price": "200 gp",
+        "rarity": 2
+    },
+    {
+        "id": 17,
+        "name": "Torpor (vial)",
+        "description": "A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 4d6 hours. The poisoned creature is incapacitated.",
+        "price": "600 gp",
+        "rarity": 3
+    },
+    {
+        "id": 18,
+        "name": "Truth Serum (vial)",
+        "description": "A creature subjected to this poison must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. The poisoned creature can't knowingly speak a lie, as if under the effect of a zone of truth spell.",
+        "price": "150 gp",
+        "rarity": 2
+    },
+    {
+        "id": 19,
+        "name": "Purple Worm Poison (vial)",
+        "description": "This poison must be harvested from a dead or incapacitated purple worm. A creature subjected to this poison must succeed on a DC 19 Constitution saving throw or take 12 (4d6) poison damage and become poisoned for 1 minute. The poisoned creature is paralyzed. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
+        "price": "2,000 gp",
+        "rarity": 3
+    },
+    {
+        "id": 20,
+        "name": "Disguise Kit",
+        "description": "This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise.",
+        "price": "25 gp",
+        "rarity": 2
+    },
+    {
+        "id": 21,
+        "name": "Forgery Kit",
+        "description": "This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies necessary to create convincing forgeries of physical documents. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a physical forgery of a document.",
+        "price": "15 gp",
+        "rarity": 1
+    },
+    {
+        "id": 22,
+        "name": "Healer's Kit",
+        "description": "This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.",
+        "price": "5 gp",
+        "rarity": 1
+    },
+    {
+        "id": 23,
+        "name": "Herbalism Kit",
+        "description": "This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and potions. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify or apply herbs.",
+        "price": "5 gp",
+        "rarity": 1
+    },
+    {
+        "id": 24,
+        "name": "Poisoner's Kit",
+        "description": "A poisoner's kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.",
+        "price": "50 gp",
+        "rarity": 2
+    },
+    {
+        "id": 25,
+        "name": "Thieves' Tools",
+        "description": "This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.",
+        "price": "25 gp",
+        "rarity": 1
+    }
+    
+]
