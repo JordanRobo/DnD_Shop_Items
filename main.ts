@@ -31,15 +31,28 @@ function getStock(shopType: string, townSize: string) {
         throw new Error("Invalid shop type");
     }
 
-    let rarity = townSize == "small" ? 1 : townSize == "medium" ? 2 : null;
-    if (rarity === null) {
+    let items: any[] = [];
+    if (townSize == "small") {
+        items = getRandomItems(data, 1, 4);
+    } else if (townSize == "medium") {
+        items = [...getRandomItems(data, 1, 3), ...getRandomItems(data, 2, 2)];
+    } else if (townSize == "large") {
+        items = [...getRandomItems(data, 1, 4), ...getRandomItems(data, 2, 3), ...getRandomItems(data, 3, 2)];
+    } else {
         throw new Error("Invalid town size");
     }
 
-    let items = data.filter(item => item.rarity == rarity);
-    let item1 = items[Math.floor(Math.random() * items.length)];
-    let item2 = items[Math.floor(Math.random() * items.length)];
-    return [item1, item2];
+    return items;
 };
 
+function getRandomItems(data: any[], rarity: number, count: any) {
+    let items = data.filter(item => item.rarity == rarity);
+    let result: any[] = [];
+    for (let i = 0; i < count; i++) {
+        let index = Math.floor(Math.random() * items.length);
+        result.push(items[index]);
+        items.splice(index, 1); 
+    }
+    return result;
+}
 console.log(getStock(town1.shopType, town1.townSize));
